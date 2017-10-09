@@ -22,7 +22,7 @@ Durante a competição, consultores serão disponibilizados para auxiliar no des
 
 ### Da avaliação dos projetos
 
-Ao final do prazo da competição, os projetos serão avaliados por um comitê, cujos membros possuem diferentes áreas de formação/atuação. Cada membro do comitê terá liberdade para escolher um ou mais critérios na lista abaixo para realizar sua avaliação:
+Ao final do prazo da competição, os projetos serão avaliados por um comitê formado por 5 avaliadores, cujos membros possuem diferentes áreas de formação/atuação. Cada membro do comitê terá liberdade para escolher um ou mais critérios na lista abaixo para realizar sua avaliação:
 
 * Relevância da aplicação no contexto de Ciência de Dados.
 * Uso das ferramentas abordadas pelo palestrante.
