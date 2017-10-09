@@ -10,7 +10,7 @@ Abaixo, você pode consultar o regulamento da competição, cuja premiação ser
 
 ### Do objeto
 
-A competição organizada no escopo do Desafio Python será organizada em equipes, que serão avaliadas pelo produto que a equipe conceba e desenvolva durante o prazo de 5 (cinco) horas. O produto a ser desenvolvido durante a competição será **uma aplicação em Python envolvendo a área de Ciência de Dados**. Dada a duração da competição, entende-se por aplicação apenas seu *back-end*. Assim, as equipes podem se fazer valer de ferramentas como o *Jupyter Notebook* para executar/apresentar suas aplicações.
+A competição realizada no escopo do Desafio Python será organizada em equipes, que serão avaliadas pelo produto que a equipe conceba e desenvolva durante o prazo de 5 (cinco) horas. O produto a ser desenvolvido durante a competição será **uma aplicação em Python envolvendo a área de Ciência de Dados**. Dada a duração da competição, entende-se por aplicação apenas seu *back-end*. Assim, as equipes podem se fazer valer de ferramentas como o *Jupyter Notebook* para executar/apresentar suas aplicações.
 
 ### Da eligibilidade para participação
 
