@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Desafio Python IMD
 
-You can use the [editor on GitHub](https://github.com/leobezerra/desafio-python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bem vindo ao repositório oficial do Desafio Python IMD!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Em breve, você poderá encontrar aqui os notebooks que serão utilizados nos minicursos, assim como os slides utilizados na keynote.
 
-### Markdown
+Abaixo, você pode consultar o regulamento da competição, cuja premiação será a inscrição gratuita para o Python Brasil 2018.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Regulamento da Competição
 
-```markdown
-Syntax highlighted code block
+### Do objeto
 
-# Header 1
-## Header 2
-### Header 3
+A competição organizada no escopo do Desafio Python será organizada em equipes, que serão avaliadas pelo produto que a equipe conceba e desenvolva durante o prazo de 5 (cinco) horas. O produto a ser desenvolvido durante a competição será **uma aplicação em Python envolvendo a área de Ciência de Dados**. Dada a duração da competição, entende-se por aplicação apenas seu *back-end*. Assim, as equipes podem se fazer valer de ferramentas como o *Jupyter Notebook* para executar/apresentar suas aplicações.
 
-- Bulleted
-- List
+### Da eligibilidade para participação
 
-1. Numbered
-2. List
+Pode participar da competição qualquer pessoa devidamente credenciada no Desafio Python IMD, desde que seja parte de uma equipe formada por 4 participantes. **O credenciamento será feito na recepção do evento, das 8h às 8h30. O registro como equipe poderá ser feito até o horário de início da competição**. Assim, caso você deseje participar da competição mas ainda não seja parte de uma equipe, você poderá encontrar parceiros durante a manhã do evento.
 
-**Bold** and _Italic_ and `Code` text
+### Da consultoria aos projetos
 
-[Link](url) and ![Image](src)
-```
+Durante a competição, consultores serão disponibilizados para auxiliar no desenvolvimento das aplicações. No entanto, cada consultor apresenta uma área de formação/atuação distinto, sendo seu papel colaborar prioritariamente com sua área. Além disso, todas as equipes terão acesso aos consultores, o que significa que o tempo que cada equipe poderá usar para consultoria será breve.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Da avaliação dos projetos
 
-### Jekyll Themes
+Ao final do prazo da competição, os projetos serão avaliados por um comitê, cujos membros possuem diferentes áreas de formação/atuação. Cada membro do comitê terá liberdade para escolher um ou mais critérios na lista abaixo para realizar sua avaliação:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leobezerra/desafio-python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Relevância da aplicação no contexto de Ciência de Dados.
+* Uso das ferramentas abordadas pelo palestrante.
+* Integração com a comunidade Python de forma mais ampla (uso de bibliotecas, ferramentas e conformidade com a PEP 8).
+* Originalidade e potencial de inovação da aplicação.
 
-### Support or Contact
+A avaliação se dará em duas etapas: 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Os membros do comitê de avaliação visitarão as diferentes equipes ao longo da competição e/ou ao término desta, a fim de conhecer a proposta de cada equipe. Cada membro irá pré-selecionar duas equipes, totalizando um máximo de 10 equipes que participarão da segunda etapa de avaliação.
+2. As equipes pré-selecionadas deverão fazer uma apresentação breve (*pitch*) de sua aplicação para todos os participantes da competição. A duração máxima desta apresentação será de 3 minutos, devendo a equipe ser objetiva em relação ao seu projeto. Caso menos de 10 equipes sejam escolhidas para esta etapa, a duração máxima poderá ser estendida, o que será anunciado durante a divulgação do resultado da etapa anterior.
+
+As apresentações de cada equipe serão avaliadas individualmente por cada membro do comitê de avaliação sob a forma de rankeamento, sendo o ranking 1 atribuído à melhor equipe e casos de empate sendo resolvidos pela média dos rankings das equipes empatadas. Por exemplo, se um avaliador considerar duas equipes empatadas na disputa pelo ranking 2, o ranking de cada equipe empatada será igual a 2.5 ((2 + 3) / 2). O rankeamento geral das equipes será dado pela soma dos rankings individuais atribuídos por cada avaliador. Casos de empate serão definidos por voto majoritário do comitê de avaliação. **A equipe com a menor soma de rankings no geral será considerada a vencedora da competição, podendo haver apenas uma equipe vencedora.**
+
+### Da premiação
+
+Os resultados da avaliação serão divulgados para todos os participantes no horário estabelecido na programação oficial do evento. **A equipe vencedora será premiada com a inscrição gratuita para o Python Brasil 2018, a ser concedida pela Evolux.**
