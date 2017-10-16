@@ -4,6 +4,12 @@ Bem vindo ao repositório oficial do Desafio Python IMD!
 
 Em breve, você poderá encontrar aqui os notebooks que serão utilizados nos minicursos, assim como os slides utilizados na keynote.
 
+Enquanto isso, pensamos em alguns minicursos online que podem te ajudar a aproveitar melhor o evento:
+* Codecademy: [Introdução ao Python](https://www.codecademy.com/learn/learn-python)
+* PyCursos: [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/)
+* [Introdução a Python e Data Science](https://github.com/ivanovitchm/EEC2006/blob/master/Lesson%202/Warming_up.ipynb)
+* [Introdução ao Python para Data Science](https://github.com/ivanovitchm/EEC2006/blob/master/Lesson%202/Introduction%20to%20Python%20for%20Data%20Science%20I.ipynb)
+
 Abaixo, você pode consultar o regulamento da competição, cuja premiação será a inscrição gratuita para o Python Brasil 2018.
 
 ## Regulamento da Competição
